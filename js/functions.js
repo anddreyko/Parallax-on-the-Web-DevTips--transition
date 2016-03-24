@@ -3,8 +3,7 @@ var pContainerHeight = $('.bird-box').height();
 $(window).scroll(function(){
 
   var wScroll = $(this).scrollTop();
-/*
-*/
+  
   if (wScroll <= pContainerHeight) {
 
     $('.logo').css({

@@ -899,9 +899,9 @@ img {
   top: 50%;
   margin-top: -50px; 
     transition: all 2s ease-in-out;
-    -webkit-transition: all 2s ease-in-out; /** Chrome & Safari **/
-    -moz-transition: all 2s ease-in-out; /** Firefox **/
-    -o-transition: all 2s ease-in-out; /** Opera **/}
+    -webkit-transition: all 2s ease-in-out;
+    -moz-transition: all 2s ease-in-out;
+    -o-transition: all 2s ease-in-out;}
 
 .fore-bird {
   width: 960px;
@@ -914,9 +914,9 @@ img {
   margin-left: -480px;
   top: 380px; 
     transition: all 2s ease-in-out;
-    -webkit-transition: all 2s ease-in-out; /** Chrome & Safari **/
-    -moz-transition: all 2s ease-in-out; /** Firefox **/
-    -o-transition: all 2s ease-in-out; /** Opera **/}
+    -webkit-transition: all 2s ease-in-out;
+    -moz-transition: all 2s ease-in-out;
+    -o-transition: all 2s ease-in-out;}
 
 .back-bird {
   width: 960px;
@@ -928,9 +928,9 @@ img {
   left: 50%;
   margin-left: -480px;
     transition: all 2s ease-in-out;
-    -webkit-transition: all 2s ease-in-out; /** Chrome & Safari **/
-    -moz-transition: all 2s ease-in-out; /** Firefox **/
-    -o-transition: all 2s ease-in-out; /** Opera **/}
+    -webkit-transition: all 2s ease-in-out;
+    -moz-transition: all 2s ease-in-out;
+    -o-transition: all 2s ease-in-out;}
 .clothes-pics {
   margin-bottom: 100px; }
   .clothes-pics figure {
